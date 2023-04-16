@@ -1,5 +1,5 @@
 services:
-  okvtwo:
+  Mooozkon:
     build: .
     shm_size: 2.6gb
     ports:
